@@ -8,4 +8,5 @@
 3. cd Customize-my-prompt
 4. chmod +x prompt.sh
 5. ./prompt.sh
+
 ***that's all!***
