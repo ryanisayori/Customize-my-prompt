@@ -17,4 +17,4 @@
 
 ###### So what about ```promptbeta.sh```. Use it if you want, it hasn't completed yet. It includes some special symbols, it may not work on your devices.
 
-Text me on [my Facebook] [https://www.facebook.com/ryanisayori0164]
+Text me on [my Facebook] (https://www.facebook.com/ryanisayori0164).
