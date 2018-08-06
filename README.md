@@ -28,7 +28,7 @@ Open up a new terminal window and your prompt should look something like this:
 ###### Also if you want to try it:
 
 1. terminal
-2. *Type* the command below right on when you downloaded ```Customizing-my-prompt```
+2. *Type* the command below right on the directory when you downloaded ```Customizing-my-prompt```
 3. source promptbeta.sh
 # ENJOY!
 ## Follow me 
