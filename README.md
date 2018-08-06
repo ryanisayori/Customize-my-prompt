@@ -20,7 +20,8 @@
 
 **That's all!**
 ## Themes
-[Screenshots](https://imgur.com/GBInfGi).
+Open up a new terminal window and your prompt should look something like this:
+![Agnoster theme](https://imgur.com/GBInfGi)
 
 ###### So what about ```promptbeta.sh```. Use it if you want, it hasn't completed yet. It includes some special symbols, it may not work on your devices.
 
