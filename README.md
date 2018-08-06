@@ -13,7 +13,7 @@
 *Second*
 
 * *open* your termial
-* it clone ```https://github.com/ryanisayori/Customize-my-prompt.git```
+* git clone ```https://github.com/ryanisayori/Customize-my-prompt.git```
 * cd Customize-my-prompt
 * chmod +x prompt.sh
 * ./prompt.sh
@@ -22,4 +22,10 @@
 
 ###### So what about ```promptbeta.sh```. Use it if you want, it hasn't completed yet. It includes some special symbols, it may not work on your devices.
 
+###### Also, if you want to try it:
+
+1. terminal
+2. *Type* the command below right on when you downloaded ```Customizing-my-prompt```
+3. source promptbeta.sh
+# ENJOY!
 Text me on [my Facebook](https://www.facebook.com/ryanisayori0164).
