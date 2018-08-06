@@ -32,5 +32,6 @@ Open up a new terminal window and your prompt should look something like this:
 3. source promptbeta.sh
 # ENJOY!
 ## Follow me 
-[Facebook](https://www.facebook.com/ryanisayori0164).
-[Twitter](https://twitter.com/georgegreenby).
+[Facebook](https://www.facebook.com/ryanisayori0164)
+
+[Twitter](https://twitter.com/georgegreenby)
