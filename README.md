@@ -6,19 +6,21 @@
 **HOW to use?**
 
 *First*
-* *Open* your terminal ```Ctrl + Alt + T/Shifit ```
-* chmod +x checkutf.sh
-* ./checkutf.sh
+1. *Open* your terminal ```Ctrl + Alt + T/Shifit ```
+2. chmod +x checkutf.sh
+3. ./checkutf.sh
 
-*Second*
+*...Then...*
 
-* *open* your termial
-* git clone ```https://github.com/ryanisayori/Customize-my-prompt.git```
-* cd Customize-my-prompt
-* chmod +x prompt.sh
-* ./prompt.sh
+1. *open* your termial
+2. git clone ```https://github.com/ryanisayori/Customize-my-prompt.git```
+3. cd Customize-my-prompt
+4. chmod +x prompt.sh
+5. ./prompt.sh
 
 **That's all!**
+## Themes
+[Screenshots](https://imgur.com/GBInfGi).
 
 ###### So what about ```promptbeta.sh```. Use it if you want, it hasn't completed yet. It includes some special symbols, it may not work on your devices.
 
@@ -28,4 +30,6 @@
 2. *Type* the command below right on when you downloaded ```Customizing-my-prompt```
 3. source promptbeta.sh
 # ENJOY!
-Text me on [my Facebook](https://www.facebook.com/ryanisayori0164).
+## Follow me 
+[Facebook](https://www.facebook.com/ryanisayori0164).
+[Twitter](https://twitter.com/georgegreenby).
