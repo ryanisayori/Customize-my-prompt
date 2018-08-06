@@ -8,8 +8,10 @@
 *First*
 * *Open* your terminal ```Ctrl + Alt + T/Shifit ```
 * chmod +x checkutf.sh
-*./checkutf.sh
+* ./checkutf.sh
+
 *Second*
+
 * *open* your termial
 * it clone ```https://github.com/ryanisayori/Customize-my-prompt.git```
 * cd Customize-my-prompt
