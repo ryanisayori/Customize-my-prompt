@@ -25,7 +25,7 @@ Open up a new terminal window and your prompt should look something like this:
 
 ###### So what about ```promptbeta.sh```. Use it if you want, it hasn't completed yet. It includes some special symbols, it may not work on your devices.
 
-###### Also, if you want to try it:
+###### Also if you want to try it:
 
 1. terminal
 2. *Type* the command below right on when you downloaded ```Customizing-my-prompt```
