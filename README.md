@@ -21,7 +21,7 @@
 **That's all!**
 ## Themes
 Open up a new terminal window and your prompt should look something like this:
-![Screenshots](https://i.imgur.com/GBInfGi.png)
+![Screenshots](https://i.imgur.com/nMYe3ZK.png)
 
 ###### So what about ```promptbeta.sh```. Use it if you want, it hasn't completed yet. It includes some special symbols, it may not work on your devices.
 
