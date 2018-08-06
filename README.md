@@ -3,7 +3,7 @@
 ###### contact me if you have any problems with it!
 ###### copyright @ 2018
 
-**HOW to use?**
+**GETTING STARTED**
 
 *First*
 1. *Open* your terminal ```Ctrl + Alt + T/Shifit ```
