@@ -11,24 +11,32 @@ if read -t 10 -p "Let's check! [Y/N]: " que; then
 		    echo "$(tput setaf 5)Your terminal supports UTF-8$(tput sgr 0)"
 		    sleep $delay0
 		    #There your go
-		    echo "$(tput setaf 3)Do you LIKE this app? [Y/N]$(tput sgr 0)"
-if read -p "==> " ans; then
-         if [ $ans == "Y" -o $ans == "y" ]; then
+ans1="n"
+while [ $ans1 == "N" -o $ans1 == "n" ]; do
+	clear
+	cat <<- eof
+	PLEASE LIKE THIS APP!
+	you MUST like this app to continue.......
+	eof
+echo "$(tput setaf 3)Do you LIKE this app? [Y/N]$(tput sgr 0)" #Yellow
+if read -p "==> " ans1; then
+         if [ $ans1 == "Y" -o $ans1 == "y" ]; then
 		 echo "$(tput setaf 4)WELCOME!$(tput sgr 0)"
                 PS1=
                 PS1="\[\033[0;36m\][\A]-{\u@} \[\033[0;41m\]|\w|\[\033[0;32m\]=> (\$)\[\033[0m\]: \[\033[1;35m\]\n--> \[\033[0m\]"
-         else
-                echo "great"
-                rm -rf $(echo $PWD)/prompt.sh
+         #else
+                #echo "great"
+                #rm -rf $(echo $PWD)/prompt.sh
          fi
 else
          echo "Too late!"
-         sleep $delay0
+         sleep $delay1
          exit 0
 fi
-
+done
                  else
 	            sleep $delay0
+		    #Well, Look what you make me do!
 		    echo "Your terminal $(tput setaf 5)doesn't$(tput setaf 0) support UTF-8"
                  fi
 	 else
@@ -36,7 +44,7 @@ fi
 		 sleep $delay1
 		 exit 0
 	 fi
- else
+else
 	 echo "Time out!"
 	 sleep $delay0
 	 exit 0
