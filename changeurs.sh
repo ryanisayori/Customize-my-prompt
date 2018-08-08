@@ -1,4 +1,4 @@
-echo "thanhcong1308@icloud.com Contact me if you have any problems!"
+echo "(tput setaf 3)thanhcong1308@icloud.com(tput sgr 0) Contact me if you have any problems!"
 echo "copyright @ 2018"
 delay0=3
 delay1=10
