@@ -16,7 +16,7 @@ while [ $ans1 == "N" -o $ans1 == "n" ]; do
 	clear
 	cat <<- eof
 	PLEASE LIKE THIS APP!
-	you MUST like this app to continue.......
+	You MUST like this app to continue.......
 	eof
 echo "$(tput setaf 3)Do you LIKE this app? [Y/N]$(tput sgr 0)" #Yellow
 if read -p "==> " ans1; then
