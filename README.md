@@ -6,7 +6,7 @@
 **GETTING STARTED**
 
 *First*
-1. *Open* your terminal ```Ctrl + Alt + T/Shifit ```
+1. *Open* your terminal ```Ctrl + Alt + T/Shift ```
 2. chmod +x checkutf.sh
 3. ./checkutf.sh
 
